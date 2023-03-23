@@ -1,7 +1,6 @@
 ## NER
 ### Example:
-<img width="557" alt="image" src="https://user-images.githubusercontent.com/93317912/223155183-3017e728-773b-4203-9695-fb220d7bf480.png">
-
+![image](https://user-images.githubusercontent.com/93317912/227095105-98f7b3fe-0499-4b92-8c77-00d02bf21ab8.png)
 
 ## Dash-ner
 ner 模型的 dash网页APP. 用于可视化NER以及对比测试NER替换前后后的翻译差别
